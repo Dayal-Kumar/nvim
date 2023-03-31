@@ -1,2 +1,2 @@
 require("dayalk.remap")
-print("hello from dayalk")
+require("dayalk.set")

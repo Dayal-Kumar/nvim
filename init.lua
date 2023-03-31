@@ -1,2 +1,1 @@
 require("dayalk")
-print("hello")
